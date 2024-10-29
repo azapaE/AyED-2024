@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\ezequie.apaza\etapa1234\1_lasumaanterior\1_lasumaanterior\bin\Debug\1_lasumaanterior.exe.config
+C:\Users\alumno.ET37\Desktop\ezequie.apaza\etapa1234\1_lasumaanterior\1_lasumaanterior\bin\Debug\1_lasumaanterior.exe
+C:\Users\alumno.ET37\Desktop\ezequie.apaza\etapa1234\1_lasumaanterior\1_lasumaanterior\bin\Debug\1_lasumaanterior.pdb
+C:\Users\alumno.ET37\Desktop\ezequie.apaza\etapa1234\1_lasumaanterior\1_lasumaanterior\obj\Debug\1_lasumaanterior.exe
+C:\Users\alumno.ET37\Desktop\ezequie.apaza\etapa1234\1_lasumaanterior\1_lasumaanterior\obj\Debug\1_lasumaanterior.pdb
