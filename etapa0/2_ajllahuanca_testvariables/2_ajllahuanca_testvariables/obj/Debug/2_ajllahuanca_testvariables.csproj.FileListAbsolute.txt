@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\2_ajllahuanca_testvariable\etapa0\2_ajllahuanca_testvariables\2_ajllahuanca_testvariables\bin\Debug\2_ajllahuanca_testvariables.exe.config
+C:\Users\alumno.ET37\Desktop\2_ajllahuanca_testvariable\etapa0\2_ajllahuanca_testvariables\2_ajllahuanca_testvariables\bin\Debug\2_ajllahuanca_testvariables.exe
+C:\Users\alumno.ET37\Desktop\2_ajllahuanca_testvariable\etapa0\2_ajllahuanca_testvariables\2_ajllahuanca_testvariables\bin\Debug\2_ajllahuanca_testvariables.pdb
+C:\Users\alumno.ET37\Desktop\2_ajllahuanca_testvariable\etapa0\2_ajllahuanca_testvariables\2_ajllahuanca_testvariables\obj\Debug\2_ajllahuanca_testvariables.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\2_ajllahuanca_testvariable\etapa0\2_ajllahuanca_testvariables\2_ajllahuanca_testvariables\obj\Debug\2_ajllahuanca_testvariables.exe
+C:\Users\alumno.ET37\Desktop\2_ajllahuanca_testvariable\etapa0\2_ajllahuanca_testvariables\2_ajllahuanca_testvariables\obj\Debug\2_ajllahuanca_testvariables.pdb
