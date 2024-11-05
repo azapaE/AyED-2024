@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\12_cobrarbeca\12_cobrarbeca\bin\Debug\12_cobrarbeca.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\12_cobrarbeca\12_cobrarbeca\bin\Debug\12_cobrarbeca.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\12_cobrarbeca\12_cobrarbeca\bin\Debug\12_cobrarbeca.pdb
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\12_cobrarbeca\12_cobrarbeca\obj\Debug\12_cobrarbeca.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\12_cobrarbeca\12_cobrarbeca\obj\Debug\12_cobrarbeca.pdb
