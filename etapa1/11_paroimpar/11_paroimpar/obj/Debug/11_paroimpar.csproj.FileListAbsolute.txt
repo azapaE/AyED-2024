@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\11_paroimpar\11_paroimpar\bin\Debug\11_paroimpar.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\11_paroimpar\11_paroimpar\obj\Debug\11_paroimpar.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\11_paroimpar\11_paroimpar\bin\Debug\11_paroimpar.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\11_paroimpar\11_paroimpar\bin\Debug\11_paroimpar.pdb
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\11_paroimpar\11_paroimpar\obj\Debug\11_paroimpar.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\11_paroimpar\11_paroimpar\obj\Debug\11_paroimpar.pdb
