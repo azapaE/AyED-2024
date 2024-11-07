@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\15-cuentaprogresiva\15-cuentaprogresiva\bin\Debug\15-cuentaprogresiva.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\15-cuentaprogresiva\15-cuentaprogresiva\bin\Debug\15-cuentaprogresiva.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\15-cuentaprogresiva\15-cuentaprogresiva\bin\Debug\15-cuentaprogresiva.pdb
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\15-cuentaprogresiva\15-cuentaprogresiva\obj\Debug\15-cuentaprogresiva.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\15-cuentaprogresiva\15-cuentaprogresiva\obj\Debug\15-cuentaprogresiva.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\15-cuentaprogresiva\15-cuentaprogresiva\obj\Debug\15-cuentaprogresiva.pdb
