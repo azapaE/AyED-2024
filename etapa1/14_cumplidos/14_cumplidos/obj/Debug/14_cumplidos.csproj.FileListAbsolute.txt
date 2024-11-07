@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\14_cumplidos\14_cumplidos\bin\Debug\14_cumplidos.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\14_cumplidos\14_cumplidos\bin\Debug\14_cumplidos.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\14_cumplidos\14_cumplidos\bin\Debug\14_cumplidos.pdb
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\14_cumplidos\14_cumplidos\obj\Debug\14_cumplidos.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\14_cumplidos\14_cumplidos\obj\Debug\14_cumplidos.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\14_cumplidos\14_cumplidos\obj\Debug\14_cumplidos.pdb
