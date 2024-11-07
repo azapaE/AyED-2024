@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\13_diezveces\13_diezveces\bin\Debug\13_diezveces.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\13_diezveces\13_diezveces\bin\Debug\13_diezveces.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\13_diezveces\13_diezveces\bin\Debug\13_diezveces.pdb
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\13_diezveces\13_diezveces\obj\Debug\13_diezveces.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\13_diezveces\13_diezveces\obj\Debug\13_diezveces.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1\13_diezveces\13_diezveces\obj\Debug\13_diezveces.pdb
