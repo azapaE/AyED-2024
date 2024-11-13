@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp-10matrizaleatoria\tp-10matrizaleatoria\bin\Debug\tp-10matrizaleatoria.exe.config
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp-10matrizaleatoria\tp-10matrizaleatoria\bin\Debug\tp-10matrizaleatoria.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp-10matrizaleatoria\tp-10matrizaleatoria\bin\Debug\tp-10matrizaleatoria.pdb
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp-10matrizaleatoria\tp-10matrizaleatoria\obj\Debug\tp-10matrizaleatoria.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp-10matrizaleatoria\tp-10matrizaleatoria\obj\Debug\tp-10matrizaleatoria.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp-10matrizaleatoria\tp-10matrizaleatoria\obj\Debug\tp-10matrizaleatoria.pdb
