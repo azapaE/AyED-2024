@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp14-calificacionesestudiantiles\tp14-calificacionesestudiantiles\bin\Debug\tp14-calificacionesestudiantiles.exe.config
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp14-calificacionesestudiantiles\tp14-calificacionesestudiantiles\bin\Debug\tp14-calificacionesestudiantiles.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp14-calificacionesestudiantiles\tp14-calificacionesestudiantiles\bin\Debug\tp14-calificacionesestudiantiles.pdb
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp14-calificacionesestudiantiles\tp14-calificacionesestudiantiles\obj\Debug\tp14-calificacionesestudiantiles.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp14-calificacionesestudiantiles\tp14-calificacionesestudiantiles\obj\Debug\tp14-calificacionesestudiantiles.pdb
