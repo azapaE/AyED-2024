@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp-11sumandomatrizes\tp-11sumandomatrizes\bin\Debug\tp-11sumandomatrizes.exe.config
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp-11sumandomatrizes\tp-11sumandomatrizes\bin\Debug\tp-11sumandomatrizes.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp-11sumandomatrizes\tp-11sumandomatrizes\bin\Debug\tp-11sumandomatrizes.pdb
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp-11sumandomatrizes\tp-11sumandomatrizes\obj\Debug\tp-11sumandomatrizes.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp-11sumandomatrizes\tp-11sumandomatrizes\obj\Debug\tp-11sumandomatrizes.pdb
