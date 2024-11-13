@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\ezequiel.Ajllahuanca\etapa.2\2_Elrayocarreraveloz\2_Elrayocarreraveloz\bin\Debug\2_Elrayocarreraveloz.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel.Ajllahuanca\etapa.2\2_Elrayocarreraveloz\2_Elrayocarreraveloz\bin\Debug\2_Elrayocarreraveloz.exe
+C:\Users\alumno.ET37\Desktop\ezequiel.Ajllahuanca\etapa.2\2_Elrayocarreraveloz\2_Elrayocarreraveloz\bin\Debug\2_Elrayocarreraveloz.pdb
+C:\Users\alumno.ET37\Desktop\ezequiel.Ajllahuanca\etapa.2\2_Elrayocarreraveloz\2_Elrayocarreraveloz\obj\Debug\2_Elrayocarreraveloz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\ezequiel.Ajllahuanca\etapa.2\2_Elrayocarreraveloz\2_Elrayocarreraveloz\obj\Debug\2_Elrayocarreraveloz.exe
+C:\Users\alumno.ET37\Desktop\ezequiel.Ajllahuanca\etapa.2\2_Elrayocarreraveloz\2_Elrayocarreraveloz\obj\Debug\2_Elrayocarreraveloz.pdb
