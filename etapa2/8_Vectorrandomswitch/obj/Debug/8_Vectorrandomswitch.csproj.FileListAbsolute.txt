@@ -1,0 +1,2 @@
+C:\Users\alumno.ET37\Desktop\ezequiel.apaza\etapa2.0001\8_Vectorrandomswitch\8_Vectorrandomswitch\bin\Debug\8_Vectorrandomswitch.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel.apaza\etapa2.0001\8_Vectorrandomswitch\8_Vectorrandomswitch\obj\Debug\8_Vectorrandomswitch.csprojResolveAssemblyReference.cache
