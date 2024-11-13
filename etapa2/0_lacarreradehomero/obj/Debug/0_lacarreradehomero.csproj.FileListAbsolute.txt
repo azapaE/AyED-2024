@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\0_lacarreradehomero\0_lacarreradehomero\bin\Debug\0_lacarreradehomero.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\0_lacarreradehomero\0_lacarreradehomero\bin\Debug\0_lacarreradehomero.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\0_lacarreradehomero\0_lacarreradehomero\bin\Debug\0_lacarreradehomero.pdb
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\0_lacarreradehomero\0_lacarreradehomero\obj\Debug\0_lacarreradehomero.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\0_lacarreradehomero\0_lacarreradehomero\obj\Debug\0_lacarreradehomero.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\0_lacarreradehomero\0_lacarreradehomero\obj\Debug\0_lacarreradehomero.pdb
