@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp9_miprimermatriz\tp9_miprimermatriz\bin\Debug\tp9_miprimermatriz.exe.config
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp9_miprimermatriz\tp9_miprimermatriz\bin\Debug\tp9_miprimermatriz.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp9_miprimermatriz\tp9_miprimermatriz\bin\Debug\tp9_miprimermatriz.pdb
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp9_miprimermatriz\tp9_miprimermatriz\obj\Debug\tp9_miprimermatriz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp9_miprimermatriz\tp9_miprimermatriz\obj\Debug\tp9_miprimermatriz.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp9_miprimermatriz\tp9_miprimermatriz\obj\Debug\tp9_miprimermatriz.pdb
