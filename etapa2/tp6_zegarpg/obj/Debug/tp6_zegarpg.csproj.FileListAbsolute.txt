@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa2.21\tp6_zegarpg\tp6_zegarpg\bin\Debug\tp6_zegarpg.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa2.21\tp6_zegarpg\tp6_zegarpg\bin\Debug\tp6_zegarpg.exe
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa2.21\tp6_zegarpg\tp6_zegarpg\bin\Debug\tp6_zegarpg.pdb
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa2.21\tp6_zegarpg\tp6_zegarpg\obj\Debug\tp6_zegarpg.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa2.21\tp6_zegarpg\tp6_zegarpg\obj\Debug\tp6_zegarpg.exe
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa2.21\tp6_zegarpg\tp6_zegarpg\obj\Debug\tp6_zegarpg.pdb
