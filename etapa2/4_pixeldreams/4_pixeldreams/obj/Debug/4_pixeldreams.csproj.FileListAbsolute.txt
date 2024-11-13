@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa2.1\4_pixeldreams\4_pixeldreams\bin\Debug\4_pixeldreams.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa2.1\4_pixeldreams\4_pixeldreams\bin\Debug\4_pixeldreams.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa2.1\4_pixeldreams\4_pixeldreams\bin\Debug\4_pixeldreams.pdb
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa2.1\4_pixeldreams\4_pixeldreams\obj\Debug\4_pixeldreams.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa2.1\4_pixeldreams\4_pixeldreams\obj\Debug\4_pixeldreams.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa2.1\4_pixeldreams\4_pixeldreams\obj\Debug\4_pixeldreams.pdb
