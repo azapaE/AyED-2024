@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp12-rotarmatriz90\tp12-rotarmatriz90\bin\Debug\tp12-rotarmatriz90.exe.config
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp12-rotarmatriz90\tp12-rotarmatriz90\bin\Debug\tp12-rotarmatriz90.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp12-rotarmatriz90\tp12-rotarmatriz90\bin\Debug\tp12-rotarmatriz90.pdb
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp12-rotarmatriz90\tp12-rotarmatriz90\obj\Debug\tp12-rotarmatriz90.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp12-rotarmatriz90\tp12-rotarmatriz90\obj\Debug\tp12-rotarmatriz90.pdb
