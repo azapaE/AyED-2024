@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa.201\tp7_contratacionsoft\tp7_contratacionsoft\bin\Debug\tp7_contratacionsoft.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa.201\tp7_contratacionsoft\tp7_contratacionsoft\bin\Debug\tp7_contratacionsoft.exe
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa.201\tp7_contratacionsoft\tp7_contratacionsoft\bin\Debug\tp7_contratacionsoft.pdb
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa.201\tp7_contratacionsoft\tp7_contratacionsoft\obj\Debug\tp7_contratacionsoft.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa.201\tp7_contratacionsoft\tp7_contratacionsoft\obj\Debug\tp7_contratacionsoft.exe
+C:\Users\alumno.ET37\Desktop\ezequiel.ajllahuanca\etapa.201\tp7_contratacionsoft\tp7_contratacionsoft\obj\Debug\tp7_contratacionsoft.pdb
