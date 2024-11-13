@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp13-obtenerdiagonalprincipal\tp13-obtenerdiagonalprincipal\bin\Debug\tp13-obtenerdiagonalprincipal.exe.config
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp13-obtenerdiagonalprincipal\tp13-obtenerdiagonalprincipal\bin\Debug\tp13-obtenerdiagonalprincipal.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp13-obtenerdiagonalprincipal\tp13-obtenerdiagonalprincipal\bin\Debug\tp13-obtenerdiagonalprincipal.pdb
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp13-obtenerdiagonalprincipal\tp13-obtenerdiagonalprincipal\obj\Debug\tp13-obtenerdiagonalprincipal.exe
+C:\Users\alumno.ET37\Desktop\apazaezequiel\etapa222\tp13-obtenerdiagonalprincipal\tp13-obtenerdiagonalprincipal\obj\Debug\tp13-obtenerdiagonalprincipal.pdb
