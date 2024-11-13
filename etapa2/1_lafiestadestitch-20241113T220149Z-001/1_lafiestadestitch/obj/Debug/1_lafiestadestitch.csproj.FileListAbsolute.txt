@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\1_lafiestadestitch\1_lafiestadestitch\bin\Debug\1_lafiestadestitch.exe.config
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\1_lafiestadestitch\1_lafiestadestitch\bin\Debug\1_lafiestadestitch.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\1_lafiestadestitch\1_lafiestadestitch\bin\Debug\1_lafiestadestitch.pdb
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\1_lafiestadestitch\1_lafiestadestitch\obj\Debug\1_lafiestadestitch.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\1_lafiestadestitch\1_lafiestadestitch\obj\Debug\1_lafiestadestitch.exe
+C:\Users\alumno.ET37\Desktop\ezequiel_ajllahuanca\etapa1.1.1\1_lafiestadestitch\1_lafiestadestitch\obj\Debug\1_lafiestadestitch.pdb
